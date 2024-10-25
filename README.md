@@ -75,7 +75,7 @@ I'm open to opportunities, preferably remote or based in:
 
 - **Email:** [giuice@gmail.com](mailto:giuice@gmail.com)
 - **LinkedIn:** [Giuliano Lemes](https://www.linkedin.com/in/giuice)
-- **GitHub:** [giulianolemes](https://github.com/diuice)
+- **GitHub:** [giulianolemes](https://github.com/giuice)
 
 ---
 
