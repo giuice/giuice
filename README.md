@@ -7,7 +7,7 @@
 
 🌐 **Currently based in Rio de Janeiro, Brazil**
 
-💡 Passionate about AI, prompt engineering, and leveraging technology to create impactful solutions.
+💡 Passionate about AI, context engineering, and leveraging technology to create impactful solutions.
 
 ---
 
